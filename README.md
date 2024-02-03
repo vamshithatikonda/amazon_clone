@@ -1,0 +1,1 @@
+The "AmazonClonePage" project is a meticulous recreation of the user interface of the renowned e-commerce giant, Amazon. This HTML and CSS project aims to replicate the visual appeal and functionality of Amazon's homepage, offering a hands-on experience for web developers to enhance their skills in front-end development.
